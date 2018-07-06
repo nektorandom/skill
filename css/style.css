@@ -1,0 +1,16 @@
+.first-line__wrapper {
+    /*float: left;*/
+}
+
+.header-logo__wrapper {
+    float: left;
+}
+
+.header-type__wrapper,
+.header-forms__wrapper {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}

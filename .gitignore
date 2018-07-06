@@ -1,0 +1,16 @@
+!.gitkeep
+
+*.psd
+*.sql
+*.sql.gz
+*.log
+*.zip
+*.tar.gz
+*.tgz
+sitemap*.xml*
+trash/
+.idea/
+.c9/
+.c9sdk/
+.env
+docker-compose.yml
